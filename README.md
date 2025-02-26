@@ -26,5 +26,5 @@ To see the umbrella customizer in action, open `index.html` in a browser.
 
 ---
 
-## 📂 Project Structure
+
 
